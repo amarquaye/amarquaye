@@ -13,7 +13,7 @@
 
 - <b>Python</b>
   - [More projects coming soon](https://github.com/amarquaye)
-  - [Jesspad](https://github.com/amarquaye/helloWorld)
+  - [Jesspad](https://github.com/amarquaye/Jesspad)
   
 
 
