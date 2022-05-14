@@ -4,15 +4,17 @@
 
 
 - <b>Python</b>
-  - [Projects coming soon](https://github.com/amarquaye)
+  - [More projects coming soon](https://github.com/amarquaye)
   - [Hello world](https://github.com/amarquaye/helloWorld)
   - [Simple keylogger](https://github.com/amarquaye/keylogger)
   - [Nmap](https://github.com/amarquaye/Nmap)
 
 <h2>👨‍💻 Softwaare Projects:</h2>
-  - [More projects coming soon...](https://github.com/amarquaye)
-  - [Jesspad]
 
+- <b>Python</b>
+  - [More projects coming soon](https://github.com/amarquaye)
+  - [Jesspad](https://github.com/amarquaye/helloWorld)
+  
 
 
 <h2> 🤳 Connect with me:</h2>
