@@ -9,6 +9,10 @@
   - [Simple keylogger](https://github.com/amarquaye/keylogger)
   - [Nmap](https://github.com/amarquaye/Nmap)
 
+<h2>👨‍💻 Softwaare Projects:</h2>
+  - [More projects coming soon...](https://github.com/amarquaye)
+  - [Jesspad]
+
 
 
 <h2> 🤳 Connect with me:</h2>
